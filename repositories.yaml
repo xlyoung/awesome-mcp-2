@@ -265,6 +265,8 @@ categories:
             description: Universal AI platform with MCP and multi-provider support
           - url: https://github.com/wegotdocs/open-mcp
             description: Open standard and registry for converting web APIs into MCP servers
+          - url: https://github.com/hashgraph-online/hashnet-mcp
+            description: Official MCP server for the Hashgraph Online agent registry - agent discovery, registration, encrypted P2P communication
           - url: https://github.com/Data-Everything/mcp-server-templates
           - url: https://github.com/mintmcp/servers
           - url: https://github.com/VeyraX/veyrax-mcp
