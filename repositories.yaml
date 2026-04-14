@@ -2882,6 +2882,8 @@ categories:
           - url: https://github.com/surabhya/SafetySearch
           - url: https://github.com/Cloudsway-AI/smartsearch
           - url: https://github.com/longyi1207/glean-mcp-server
+          - url: https://github.com/unitedideas/nothumansearch
+            description: Search engine for AI agents with 300+ tools ranked by agentic readiness
   - name: Security
     subcategories:
       - name: Identity & Access
