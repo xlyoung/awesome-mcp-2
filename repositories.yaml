@@ -717,6 +717,8 @@ categories:
             description: World Bank open data API
           - url: https://github.com/TakoData/tako-mcp
           - url: https://github.com/data-skunks/kpu-mcp
+          - url: https://github.com/avabuildsdata/mcp-us-business-data
+            description: US business data - SOS registrations (17 states), building permits, SAM.gov, SEC EDGAR
       - name: Data Exploration
         repos:
           - url: https://github.com/kdqed/zaturn
