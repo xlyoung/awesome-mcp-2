@@ -1551,7 +1551,6 @@
 - [AIM-Intelligence/AIM-MCP](https://github.com/AIM-Intelligence/AIM-MCP) — AIM MCP Server :: Guard and Protect your MCPs & AI Chatting ☆`20`
 - [cromwellian/hippycampus](https://github.com/cromwellian/hippycampus) — REST endpoint to MCP conversion ☆`20`
 - [kontext-security/attestable-mcp-server](https://github.com/kontext-security/attestable-mcp-server) — Hardware attestation for MCP server integrity ☆`18`
-- [Agnuxo1/EnigmAgent](https://github.com/Agnuxo1/EnigmAgent) — AES-256-GCM + Argon2id encrypted local vault for AI agent credentials. Resolves {{PLACEHOLDER}} secrets at runtime so API keys never appear in prompts, logs, or LLM context ☆`1`
 ### Network & Firewall
 
 - [vespo92/OPNSenseMCP](https://github.com/vespo92/OPNSenseMCP) — MCP Server for OPNSense to act as IaC proxy ☆`45`
