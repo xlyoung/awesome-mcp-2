@@ -2148,6 +2148,8 @@ categories:
       - url: https://github.com/gvaibhav/TAM-MCP-Server
         description: Market sizing and TAM/SAM analysis
       - url: https://github.com/amekala/ads-mcp
+      - url: https://github.com/nowork-studio/toprank
+        description: NotFair Google Ads MCP — diagnose, recommend, and execute campaign changes
   - name: Media Processing
     subcategories:
       - name: 3D & Animation
