@@ -233,6 +233,8 @@ categories:
             description: Coordinate agents using rooms
       - name: Gateways & Proxies
         repos:
+          - url: https://github.com/HelpCode-ai/anythingmcp
+            description: Self-hosted source-available MCP gateway converting REST/SOAP/GraphQL/SQL APIs into MCP tools with 29 pre-built adapters and OAuth2 + RBAC + audit log
           - url: https://github.com/sxhxliang/mcp-access-point
             description: Convert any web server to MCP instantly
           - url: https://github.com/tigranbs/mcgravity
