@@ -986,6 +986,8 @@ categories:
             description: No-code database, apps, agents with AI
           - url: https://github.com/domdomegg/airtable-mcp-server
             description: Airtable bases integration for AI systems
+          - url: https://github.com/proompteng/bilig
+            description: Headless spreadsheet WorkPaper MCP server for formula readback, input edits, and JSON persistence in Node.js agent workflows.
           - url: https://github.com/edwinbernadus/nocodb-mcp-server
           - url: https://github.com/freema/mcp-gsheets
             description: Google Sheets read, write, manipulate
