@@ -348,6 +348,8 @@ categories:
           - url: https://github.com/microsoft/playwright-mcp
   - name: CLI Tools
     repos:
+      - url: https://github.com/Coding-Dev-Tools/click-to-mcp
+        description: Auto-wrap Click/typer CLIs as MCP servers
       - url: https://github.com/automateyournetwork/pyATS_MCP
       - url: https://github.com/aybelatchane/mcp-server-terminal
       - url: https://github.com/blakerouse/ssh-mcp
