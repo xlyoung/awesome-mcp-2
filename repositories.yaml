@@ -3038,6 +3038,10 @@ categories:
           - url: https://github.com/Contrast-Security-OSS/mcp-contrast
           - url: https://github.com/safedep/pinner-mcp
           - url: https://github.com/Program-Integrity-Alliance/pia-mcp-local
+      - name: Compliance & Regulatory
+        repos:
+          - url: https://github.com/getgapup/gapup-mcp
+            description: 175-tool gold-standard MCP server covering EU AI Act, GDPR, 6-source sanctions (OFAC/UN/EU/UK/SECO/AUSTRAC), KYC/AML, trade compliance, and financial models. Remote HTTP at mcp.gapup.io.
   - name: Social Media
     repos:
       - url: https://github.com/anwerj/youtube-uploader-mcp
