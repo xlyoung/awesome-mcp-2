@@ -74,6 +74,8 @@ categories:
           - url: https://github.com/wn01011/llm-token-tracker
           - url: https://github.com/abhinav-mangla/inner-monologue-mcp
           - url: https://github.com/abhinav-mangla/think-tool-mcp
+          - url: https://github.com/ejentum/ejentum-mcp
+            description: Reasoning harness exposing four agentic tools (reasoning, code, anti-deception, memory) the agent calls during its loop
   - name: AI Memory & RAG
     subcategories:
       - name: Memory
