@@ -3197,6 +3197,8 @@ categories:
       - url: https://github.com/ScrapeGraphAI/Scrapegraph-ai
       - url: https://github.com/scrapeless-ai/scrapeless-mcp-server
       - url: https://github.com/scrapezy/mcp
+      - url: https://github.com/manchittlab/TheCrawler
+        description: Validated extraction contracts and diagnostics for agent web workflows
       - url: https://github.com/tinyfish-io/agentql-mcp
         description: AgentQL data extraction integration
       - url: https://github.com/webscraping-ai/webscraping-ai-mcp-server
