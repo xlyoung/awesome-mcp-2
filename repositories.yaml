@@ -213,6 +213,8 @@ categories:
             description: No-code secure MCP integration hub
           - url: https://github.com/hamidra/yamcp
             description: Local MCP workspace organization
+          - url: https://github.com/OldJii/mcp-dock
+            description: Desktop MCP manager for 14 AI clients with 9200+ servers and 3100+ skills
           - url: https://github.com/Intelligent-Internet/gemini-cli-mcp-openai-bridge
             description: Gemini CLI to MCP/OpenAI bridge
           - url: https://github.com/membranehq/mcp-server
