@@ -1674,7 +1674,8 @@ categories:
           - url: https://github.com/getalby/nwc-mcp-server
           - url: https://github.com/heurist-network/heurist-mesh-mcp-server
             description: Blockchain and web3 via Heurist Mesh
-          - url: https://github.com/hive-intel/hive-crypto-mcp
+          - url: https://github.com/hive-intel/hive-sdk
+            description: Managed crypto intelligence MCP for AI agents across market data, DeFi, wallets, security, DEX flows, NFTs, Solana, infrastructure, and prediction markets.
           - url: https://github.com/JamesANZ/bitcoin-mcp
           - url: https://github.com/JamesANZ/evm-mcp
           - url: https://github.com/janswist/mcp-dexscreener
